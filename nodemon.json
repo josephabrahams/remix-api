@@ -1,0 +1,4 @@
+{
+  "watch": ["server.js", "api/"],
+  "exec": "node server.js"
+}
